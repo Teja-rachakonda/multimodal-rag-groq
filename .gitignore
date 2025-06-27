@@ -5,3 +5,10 @@ __pycache__/
 venv/
 *.log
 .ipynb_checkpoints/
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
